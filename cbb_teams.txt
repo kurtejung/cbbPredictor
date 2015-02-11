@@ -48,17 +48,17 @@
 137 15 American
 11 1 Wichita_St
 192 16 Cal_Poly
-8 Kentucky
-9 Kansas_St
-5 St_Louis
-12 NC_State
-4 Louisville
-13 Manhattan
-6 UMass
-11 Tennessee
-3 Duke
-14 Mercer
-7 Texas
-10 Arizona_St
-2 Michigan
-15 Wofford
+8 8 Kentucky
+45 9 Kansas_St
+37 5 St_Louis
+60 12 NC_State
+1 4 Louisville
+63 13 Manhattan
+49 6 UMass
+15 11 Tennessee
+13 3 Duke
+70 14 Mercer
+43 7 Texas
+42 10 Arizona_St
+9 2 Michigan
+182 15 Wofford
