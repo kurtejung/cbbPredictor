@@ -1,0 +1,64 @@
+3 1 Florida
+172 16 Albany
+61 8 Colorado
+20 9 Pittsburgh
+28 5 VCU
+71 12 SF_Austin
+12 4 UCLA
+76 13 Tulsa
+19 6 Ohio_State
+33 11 Dayton
+17 3 Syracuse
+131 14 W_Michigan
+36 7 New_Mexico
+34 10 Stanford
+14 2 Kansas
+121 15 East_Ky
+7 1 Virginia
+210 16 Coast_Carolina
+35 8 Memphis
+44 9 GWU
+23 5 Cincinnati
+31 12 Harvard
+5 4 Mich_State
+96 13 Delaware
+27 6 UNC
+46 11 Providence
+16 3 Iowa_St
+82 14 N_Carolina_Cent
+6 7 UConn
+47 10 St_Joes
+10 2 Villanova
+164 15 Milwaukee
+2 1 Arizona
+175 16 Weber_St
+22 8 Gonzaga
+24 9 Ok_State
+32 5 Oklahoma
+64 12 N_Dakota_St
+18 4 San_Diego_St
+75 13 New_Mexico_St
+21 6 Baylor
+59 11 Nebraska
+25 3 Creighton
+118 14 LA_Lafayette
+29 7 Oregon
+52 10 BYU
+4 2 Wisconsin
+137 15 American
+11 1 Wichita_St
+192 16 Cal_Poly
+8 Kentucky
+9 Kansas_St
+5 St_Louis
+12 NC_State
+4 Louisville
+13 Manhattan
+6 UMass
+11 Tennessee
+3 Duke
+14 Mercer
+7 Texas
+10 Arizona_St
+2 Michigan
+15 Wofford
